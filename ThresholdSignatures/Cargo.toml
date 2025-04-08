@@ -1,0 +1,11 @@
+[package]
+name = "ThresholdSingatures"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bc-rand = "0.2.1"
+bc-shamir = "0.4.1"
+blst = "0.3"
+rand = "0.8.5"
+shamir = "2.0.0"
