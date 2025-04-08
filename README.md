@@ -1,4 +1,4 @@
-## Project DAG
+## Project DAG - WIP
 
 A **DAG** (Directed Acyclic Graph) is a data structure consisting of vertices (nodes) connected by directed edges, with the additional condition that the graph is acyclic, meaning it does not contain cycles. In other words, there is no way to start at one vertex and return to it by following the edges.
 
